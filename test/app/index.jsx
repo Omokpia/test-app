@@ -18,7 +18,7 @@ export default function Index() {
         alignItems: "center",
       }}
 >
-      <Text style={{padding:20}}>English (UK)</Text>
+      <Text style={{padding:20}}>English(UK)</Text>
 
       <Image style={{width:100, height:70,marginTop: height*.04, resizeMode:'contain'}}
        source={require('../assets/images/fb-logo.png')}/>
